@@ -100,3 +100,37 @@ body {
 .blue-button:active{
   opacity: 0.6;
 }
+
+
+/* HERO */
+.hero{
+  color: rgba(62, 62, 62, 1);
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+
+.hero-content {
+  width: 390px;
+}
+.hero-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hero-heading{
+  font-family: "Roboto Condensed","Roboto", "Arial", sans-serif;
+  font-size: 40px;
+  line-height: 1.2;
+  margin-top: 0;
+  margin-bottom: 24px;
+}
+.hero-text {
+  margin-top: 0;
+  margin-bottom: 32px;
+}
+
+.hero-img{
+  width: 978px;
+  height: 651.32px;
+}
